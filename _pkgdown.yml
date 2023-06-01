@@ -1,0 +1,5 @@
+url: https://hwarden162.github.io/labtest/
+template:
+  bootstrap: 5
+  bootswatch: yeti
+
